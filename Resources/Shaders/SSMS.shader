@@ -20,6 +20,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 //
+//Testing to see if this appears in the directory
 Shader "Hidden/SSMS"
 {
     Properties
