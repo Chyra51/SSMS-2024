@@ -1,3 +1,28 @@
+SMSS 2024
+Summary of Changes
+Shader Optimization
+
+    Optimized SSMS.shader:
+        Simplified conditional compilation and removed redundant code.
+        Improved performance by optimizing shader passes.
+        Ensured compatibility with newer versions of Unity.
+
+    Optimized SSMSGlobalFog.shader:
+        Streamlined fog computation functions.
+        Enhanced performance by reducing redundant calculations.
+        Improved readability and maintainability of the shader code.
+
+Project Structure and Meta Files
+
+    Updated .unitypackage Files:
+        Refreshed and updated all .unitypackage files to ensure compatibility with the latest version of Unity.
+        Verified that all necessary assets and dependencies are included.
+
+    Consistent Line Endings:
+        Standardized line endings across all shader files to avoid inconsistencies and potential issues on different operating systems. 
+
+        Original README starts below:
+
 Screen Space Multiple Scattering for Unity
 ==========================================
 Repurposes [Keijiro Takahashi's KinoBloom][KinoBloom] to mimic [this.][CAVE] It comes with a modified version of the Global Fog effect found inside Unity's Standard Assets package.
